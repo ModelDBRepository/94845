@@ -83,4 +83,4 @@ You may find more about Davis from [http://visual.cs.utsa.edu/davis/](http://vis
 
 ---
 
-2025-05-30: Standardized to Markdown, and separated.
+2025-05-30: Standardized to Markdown.
